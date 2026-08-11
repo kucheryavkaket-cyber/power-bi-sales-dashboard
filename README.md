@@ -13,7 +13,7 @@ The report contains three pages:
 
 A quick overview of the business performance:
 
-- Revenue
+- Revenue (Total Sales)
 - Cost
 - Profit
 - Margin
