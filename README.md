@@ -9,6 +9,7 @@ I created the dashboard to practice turning raw sales data into a clear and inte
 The report contains three pages:
 
 ### Executive Dashboard
+![Executive Dashboard](executive-dashboard.png)
 
 A quick overview of the business performance:
 
@@ -21,6 +22,7 @@ A quick overview of the business performance:
 - Revenue and Profit by Product Category
 
 ### Sales Analysis
+![Sales Analysis](sales-analysis.png)
 
 A more detailed look at sales performance:
 
@@ -35,6 +37,7 @@ A more detailed look at sales performance:
 The page can be filtered by Year and Territory.
 
 ### Product Analysis
+![Product Analysis](product-analysis.png)
 
 Focuses on product performance:
 
