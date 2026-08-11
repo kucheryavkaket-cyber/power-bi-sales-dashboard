@@ -92,6 +92,3 @@ While working on this project, I practiced:
 - Choosing appropriate visualizations for different business questions
 - Formatting and organizing a multi-page Power BI report
 
-## Project Preview
-
-Screenshots of the dashboard are included below.
